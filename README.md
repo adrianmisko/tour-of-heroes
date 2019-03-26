@@ -1,3 +1,12 @@
+Company I'd like to work for uses Angular, so I decided to learn it.
+
+Actually, Angular and TypeScript are very nice.
+
+Following project is a tutorial, it's neither big nor complex, but I learned quite a lot - CLI, project structure, ngModules, Angular's components (DI, data binding, templates, modular CSS), services with DI again, http requests and basics of RxJS futures (or observables).
+
+I'll continue to use this project as Angular playground should time allow. Idiomatic animations, authorization and authentication, permissive routing, tests are just some of the topics I defenitely need to look into.
+
+
 # TourOfHeroes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.5.
