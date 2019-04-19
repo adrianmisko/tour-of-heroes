@@ -1,7 +1,5 @@
 # TourOfHeroes
 
-Company I'd like to work for uses Angular, so I decided to learn it.
-
 Actually, Angular and TypeScript are very nice.
 
 Following project is a tutorial, it's neither big nor complex, but I learned quite a lot - CLI, project structure, ngModules, Angular's components (DI, data binding, templates, modular CSS), services with DI again, http requests and basics of RxJS futures (or observables).
